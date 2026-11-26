@@ -1,5 +1,5 @@
 
-const API_URL = "http://127.0.0.1:8000/tareas";
+const API_URL = "https://api-adso-grupo-michell-alexandra-diaz.onrender.com";
 
 
 const formTarea = document.getElementById("form-tarea");
