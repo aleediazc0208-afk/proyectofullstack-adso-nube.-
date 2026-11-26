@@ -1,5 +1,5 @@
 
-const API_URL = "https://api-adso-grupo-michell-alexandra-diaz.onrender.com";
+const API_URL = "https://api-adso-grupo-michell-alexandra-diaz.onrender.com/tareas";
 
 
 const formTarea = document.getElementById("form-tarea");
